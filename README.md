@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello there! I'm Aymaan Shabbir<br>🌱 Currently learning: Diving deep into various frameworks to enhance my skills!<br>💻 Looking to work on: Real-time, production-level apps that make a real impact.<br>⚡ Fun Fact: Either lifting or creating production-level apps, I'm always pushing for new personal bests!<br>📝 Passionate about: Writing clean code, maintaining filters, and ensuring top-notch quality in every project.<br><br>🚀 Let's connect and build something amazing together!
+👋 Hello there! I'm Aymaan Shabbir Ibrahim<br>🌱 Currently learning: Diving deep into various frameworks to enhance my skills!<br>💻 Looking to work on: Real-time, production-level apps that make a real impact.<br>⚡ Fun Fact: Either lifting or creating production-level apps, I'm always pushing for new personal bests!<br>📝 Passionate about: Writing clean code, maintaining filters, and ensuring top-notch quality in every project.<br><br>🚀 Let's connect and build something amazing together!
 
 
 # 💻 Tech Stack:
